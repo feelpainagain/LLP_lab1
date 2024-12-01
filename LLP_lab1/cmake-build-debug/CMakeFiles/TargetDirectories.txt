@@ -1,0 +1,4 @@
+C:/Users/Kirill/Desktop/Study/Labs/LLP/LLP_lab1/cmake-build-debug/CMakeFiles/n_1.dir
+C:/Users/Kirill/Desktop/Study/Labs/LLP/LLP_lab1/cmake-build-debug/CMakeFiles/n_2.dir
+C:/Users/Kirill/Desktop/Study/Labs/LLP/LLP_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kirill/Desktop/Study/Labs/LLP/LLP_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
